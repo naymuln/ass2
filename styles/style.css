@@ -1,0 +1,125 @@
+* {
+    font-family: 'Mulish', sans-serif;
+}
+
+/* shared styles */
+.btn-primary {
+    border-radius: 8px;
+    background: #FF5400;
+    border: none;
+    padding: 16px 34px 16px 67px;
+    color: #FFF;
+    text-align: center;
+    font-weight: 700;
+}
+
+.section-title {
+    color: #131318;
+    font-size: 2.5rem;
+    font-weight: 800;
+}
+
+.basic-text {
+    color: rgba(19, 19, 24, 0.70);
+}
+
+/* banner section */
+.banner {
+    background-image: url(../Images/Group\ 13\ \(1\)\ \(1\).png);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 500px;
+    padding: 100px;
+}
+
+.banner-title {
+    color: #FFF;
+    font-size: 4rem;
+    font-weight: 800;
+    text-align: center;
+}
+
+.banner-desc {
+    color: #FFF;
+    text-align: center;
+}
+
+.select-location {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+}
+
+.box-1 {
+    padding: 16px 84px 16px 16px;
+    border-radius: 8px;
+    background: #FFF;
+    border: none;
+}
+
+/* popular tours section */
+.popular-tours {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+
+/* destination section */
+.destination-1 {
+    text-align: center;
+}
+
+.row {
+    height: 400px;
+    display: flex;
+    gap: 10px;
+    margin-bottom: 10px;
+    justify-content: center;
+
+}
+
+/* why choose us section */
+.wc-1>h3 {
+    text-align: center;
+}
+
+.wc-1>p {
+    text-align: center;
+}
+
+.wc-2 {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-bottom: 20px;
+}
+
+.wc-3 {
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    padding: 32px;
+    border-radius: 16px;
+    width: 573px;
+}
+
+#card-1 {
+    border: 1px solid rgba(251, 181, 99, 0.20);
+    background: rgba(251, 181, 99, 0.05);
+}
+
+#card-2 {
+    border: 1px solid rgba(41, 206, 246, 0.20);
+    background: rgba(41, 206, 246, 0.05);
+}
+
+#card-3 {
+    border: 1px solid rgba(233, 68, 68, 0.20);
+    background: rgba(233, 68, 68, 0.05);
+}
+
+
+
